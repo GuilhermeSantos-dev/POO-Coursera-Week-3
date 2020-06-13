@@ -1,6 +1,6 @@
 # POO-Coursera-Week-2
 Projeto - Semana 2
--- INTRODUÇÃO
+-- INSTRUÇÕES
 
 Faça os testes de unidade da classe Pizza e verifique se o valor da Pizza está correto de acordo com a quantidade de ingredientes.
 Verifique também se o registro de ingredientes funcionou corretamente. Crie um método estático na classe Pizza que zera o registro
